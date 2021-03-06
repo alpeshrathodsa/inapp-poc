@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InApp POC</string>
+
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_dialog_default">@string/action_ok</string>
+    <string name="action_buy">Buy</string><!--Defaults actions for dialog-->
+</resources>
